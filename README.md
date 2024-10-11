@@ -1,2 +1,3 @@
-Step 1: Create a Repo and link with the local system
+StudyCraft - A Customized Study Planner 
+Helps students organize study schedules based on their exams, courses, and learning styles.
 
